@@ -5,7 +5,7 @@
 - Criei o repositório no github 
   - Adicionei o Daniel como colaborador
   - Adicionei o algoritmo.por e o readme.md pelo bash 'cat > algoritmo.por <<'EOF'' 'cat > README.md <<'EOF'
-  - Linkei o repositório remotamente 'git remote add origin git@github.com:SEU_USUARIO/git-portugol-colab.git'
+  - Linkei o repositório remotamente 'git remote add origin git@github.com:joaolucasdalmas/git-portugol-Eron.git'
   - Fiz o primeiro commit 'git add .' 'git commit -m "Initial commit: skeleton algoritmo.por and README"' 'git push -u origin main'
 
 - Depois que o Daniel fez as mudanças, eu aditei de novo o código, finalizando
