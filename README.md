@@ -1,3 +1,21 @@
+## Etapas realizadas por Integrante João Lucas Toledo D'Almas - 243072008
+
+-Testei o email e senha SSH no gitBash 
+
+-Criei o repositório no github 
+  -Adicionei o Daniel como colaborador
+  -Adicionei o algoritmo.por e o readme.md pelo bash 'cat > algoritmo.por <<'EOF'' 'cat > README.md <<'EOF'
+  -Linkei o repositório remotamente 'git remote add origin git@github.com:SEU_USUARIO/git-portugol-colab.git'
+  -Fiz o primeiro commit 'git add .' 'git commit -m "Initial commit: skeleton algoritmo.por and README"' 'git push -u origin main'
+
+-Depois que o Daniel fez as mudanças, eu aditei de novo o código, finalizando
+Adicionei e comitei as mudanças:
+git add algoritmo.por
+git commit -m "Integrante A: cria arquivo algoritmo.por com código inicial"
+Enviei as mudanças para o repositório remoto:
+git push
+
+
 ## Etapas realizadas por Integrante Daniel Berto Laguna Alves - 243072006
 
 - Configurei o Git com chave SSH:
